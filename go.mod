@@ -1,4 +1,4 @@
-module telegramNotifier
+module "github.com/sutapurachina/notifier"
 
 go 1.18
 
