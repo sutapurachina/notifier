@@ -1,4 +1,4 @@
-module "github.com/sutapurachina/notifier"
+module github.com/sutapurachina/notifier
 
 go 1.18
 
